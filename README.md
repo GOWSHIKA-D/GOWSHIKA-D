@@ -1,6 +1,6 @@
 Hello, I am GOWSHIKA DEVARAJU 
 - 👋 I’m interested in web development, Python programming, C programming,and Data Structures.
-- 🌱 I’m currently studying IInd Year B.Tech(INFORMATION TECHNOLOGY) at M.Kumarasamy College of Engineering and Technology - Karur.
+- 🌱 I’m currently studying IInd Year B.Tech(INFORMATION TECHNOLOGY) at M.Kumarasamy College of Engineering - Karur.
 - 👯 I’m looking to collaborate on web development, Python, and Data Structures.
 - 📫 How to reach me: I am from Namakkal 
 - 🌟 Pronouns: she/her
