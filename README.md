@@ -1,11 +1,32 @@
-Hello, I am GOWSHIKA DEVARAJU 
-- 👋 I’m interested in web development,Java programming,and Data Structures.
-- 🌱 I’m currently studying IIInd Year B.Tech(INFORMATION TECHNOLOGY) at M.Kumarasamy College of Engineering - Karur.
-- 👯 I’m looking to collaborate on web development, Java , and Data Structures.
-- 📫 How to reach me: I am from Namakkal 
-- 🌟 Pronouns: she/her
-- ⚡ Fun fact: I enjoy gardening!!
-<!---
-GOWSHIKA-D/GOWSHIKA-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Gowshika D
+
+## 💫 About Me
+I am a passionate Information Technology student interested in building innovative solutions using modern technologies. I enjoy learning and applying concepts in real-world projects.
+
+---
+
+## 🛠️ Technical Skills
+- ☕ Java  
+- 🧠 Object-Oriented Programming (OOPs)  
+- 🗄️ Database Management Systems (DBMS)  
+- 🤖 Machine Learning (ML)  
+- 🧠 Artificial Intelligence (AI)  
+
+---
+
+## 🚀 Interests
+- Web Development  
+- AI & ML Projects  
+- Problem Solving  
+- Software Development  
+
+---
+
+## 📌 Goals
+To become a skilled software developer and contribute to real-world AI/ML and full-stack projects.
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/gowshikad/
+- GitHub: GOWSHIKA D
